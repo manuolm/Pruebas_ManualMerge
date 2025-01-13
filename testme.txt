@@ -9,3 +9,6 @@ prueba 5
 8 PRUEBAS
 9 Pruebas
 10 pruebas
+20 Pruebes
+30 Pruobos
+40 Proobos
