@@ -12,3 +12,4 @@ prueba 5
 20 Pruebes
 30 Pruobos
 40 Proobos
+Infinitas pruebas
