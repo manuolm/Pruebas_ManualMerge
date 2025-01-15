@@ -1,7 +1,7 @@
-Voy a probar
+Que tal si pruebo
 Tal vez con este otro archivo
 A ver que tal
 
-Se me da
+Se dan las pruebas
 Y todo y tal
 Esta vez probaré a usar git fetch en vez de git pull
