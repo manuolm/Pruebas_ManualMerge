@@ -7,9 +7,9 @@ prueba 5
 6 pruebis
 9000? pruebas
 8 PRUEBAS
-9 Pruebas
+9000! Pruebas
 10 pruebas
 20 Pruebes
-30 Pruobos
+3000? Pruobos
 40 Proobos
 Infinitas pruebas
